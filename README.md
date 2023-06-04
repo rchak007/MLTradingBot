@@ -32,7 +32,7 @@ Following files will be used:
 
 > **Deep Dive** The provided CSV file contains OHLCV data for an MSCI&ndash;based emerging markets ETF that [iShares](https://www.ishares.com/us/products/268704/ishares-currency-hedged-msci-emerging-markets) issued. Investments in emerging markets make up an important aspect of a well-diversified investment portfolio. This is because the included equities have potentially higher long-term returns, even though they carry more risk.
 
-### Instructions
+### Steps
 
 Steps that will be followed:
 
